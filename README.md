@@ -7,7 +7,7 @@ Dit doe je door de cursor op een bepaald stuk code te zetten
 (een variabele, functie- of constructor-aanroep, ...) en uit het
 context-menu 1 van volgende dingen te kiezen:
 
-- Jump to **definition** (`SHIFT-F12`)
+- Jump to **definition** (`F12`)
 - Jump to **implementation** (`CTRL-F12`)
 - Find all references (`SHIFT-F12`)
 - Search in solution (`CTRL-SHIFT-F`)
